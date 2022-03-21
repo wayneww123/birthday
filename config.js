@@ -51,7 +51,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "哈密哈": "./imgs/Screenshot_20220311-061128450_1.jpg",
+        "鄭如恩": "./imgs/Screenshot_20220311-061128450_1.jpg",
         // "今天是你的生日": "./imgs/Screenshot_20220311-061128450_1.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -61,7 +61,7 @@ var config = {
         bannar_coming: "好了嗎",
         balloons_flying: "好像少了什麼",
         cake_fadein: "好吃的東西",
-        light_candle: "蠟燭?",
+        light_candle: "點我有驚喜",
         wish_message: "生日快樂",
         story: "A MESSAGE FOR YOU",
     }
